@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="73774" started-at="2021-08-12T09:53:35 IST" finished-at="2021-08-12T09:54:49 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="73774" started-at="2021-08-12T09:53:35 IST" finished-at="2021-08-12T09:54:49 IST">
+      <class name="Testcase.facebooklogin">
+        <test-method status="PASS" signature="launch()[pri:0, instance:Testcase.facebooklogin@3578436e]" name="launch" is-config="true" duration-ms="20331" started-at="2021-08-12T09:53:15 IST" finished-at="2021-08-12T09:53:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="URL()[pri:0, instance:Testcase.facebooklogin@3578436e]" name="URL" is-config="true" duration-ms="4649" started-at="2021-08-12T09:53:35 IST" finished-at="2021-08-12T09:53:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- URL -->
+        <test-method status="PASS" signature="firsttestcase(java.lang.String,java.lang.String)[pri:0, instance:Testcase.facebooklogin@3578436e]" name="firsttestcase" duration-ms="19102" started-at="2021-08-12T09:53:41 IST" data-provider="datareadfromexcel" finished-at="2021-08-12T09:54:00 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumar.sathish189@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firsttestcase -->
+        <test-method status="PASS" signature="firsttestcase(java.lang.String,java.lang.String)[pri:0, instance:Testcase.facebooklogin@3578436e]" name="firsttestcase" duration-ms="11740" started-at="2021-08-12T09:54:00 IST" data-provider="datareadfromexcel" finished-at="2021-08-12T09:54:12 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumar.sathish189@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firsttestcase -->
+        <test-method status="PASS" signature="firsttestcase(java.lang.String,java.lang.String)[pri:0, instance:Testcase.facebooklogin@3578436e]" name="firsttestcase" duration-ms="10461" started-at="2021-08-12T09:54:12 IST" data-provider="datareadfromexcel" finished-at="2021-08-12T09:54:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumar.sathish189@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firsttestcase -->
+        <test-method status="PASS" signature="firsttestcase(java.lang.String,java.lang.String)[pri:0, instance:Testcase.facebooklogin@3578436e]" name="firsttestcase" duration-ms="14109" started-at="2021-08-12T09:54:23 IST" data-provider="datareadfromexcel" finished-at="2021-08-12T09:54:37 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumar.sathish189@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firsttestcase -->
+        <test-method status="PASS" signature="firsttestcase(java.lang.String,java.lang.String)[pri:0, instance:Testcase.facebooklogin@3578436e]" name="firsttestcase" duration-ms="12322" started-at="2021-08-12T09:54:37 IST" data-provider="datareadfromexcel" finished-at="2021-08-12T09:54:49 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumar.sathish189@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firsttestcase -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Testcase.facebooklogin@3578436e]" name="teardown" is-config="true" duration-ms="2802" started-at="2021-08-12T09:54:49 IST" finished-at="2021-08-12T09:54:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testcase.facebooklogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
